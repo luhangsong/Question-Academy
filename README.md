@@ -1,2 +1,2 @@
 # Question-Academy
-Compilation of Scrumptious Problems Discussed by LHS and SHS
+Compilation of Scrumptious Problems Discussed by LHS and his friends
